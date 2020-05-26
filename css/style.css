@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+html {
+font-family: "Quicksand", sans-serif;
+background-color: rgb(240, 218, 209);
+}
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.content1
+{
+    color: darkolivegreen;
+}
+.content2
+{
+    color: darkred;
+}
+
+#goodtoknow 
+{
+    font-style: italic;
+    font-size: 14px;
+}
+img {
+    margin: 30px;
+    position: relative;
+   left:400px;
+}
